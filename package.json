@@ -1,0 +1,22 @@
+{
+  "name": "stormy",
+  "version": "1",
+  "description": "Node Js Build Event Manager",
+  "main": "./index.js",
+  "bin": {
+    "stormy": "./index.js"
+  },
+  "config": {
+    "publishtest": false
+  },
+  "scripts": {
+    "start": "./index.js"
+  },
+  "keywords": [],
+  "author": "Rahul Bansal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0"
+  },
+  "devDependencies": {}
+}
