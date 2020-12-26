@@ -1,6 +1,6 @@
 {
-  "name": "stormy",
-  "version": "1",
+  "name": "stormy_main",
+  "version": "1.0.0",
   "description": "Node Js Build Event Manager",
   "main": "./index.js",
   "bin": {
